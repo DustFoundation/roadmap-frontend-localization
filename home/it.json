@@ -1,11 +1,11 @@
 {
-	"title": "Ecosistema dei Servizi Comodi per",
+	"title": "Ecosistema dei Servizi convenienti per",
 	"single_subscription_for_all_products": "Abbonamento unico per tutti i prodotti",
 	"learn_more": "Scopri di più",
 	"crypto_enthusiasts": "appassionati di criptovalute",
 	"investors": "investitori",
 	"traders": "commercianti",
-	"cover_description": "DUST è un ecosistema di prodotti crittografici interconnessi progettati per facilitare\n l'uso di criptovalute e accelerarne l'adozione di massa.",
+	"cover_description": "DUST è un ecosistema di prodotti criptovaluta interconnessi progettati per facilitare l'utilizzo di criptovalute e accelerare la loro proliferazione di massa.",
 	"cryptocommunity": "Criptocomunità",
 	"platform": "piattaforma",
 	"links": {
@@ -21,11 +21,11 @@
 		},
 		"portfolio": {
 			"title": "Portafoglio",
-			"description": "Tieni traccia delle tue risorse crittografiche e osserva il tuo portafoglio"
+			"description": "Tieni traccia delle tue risorse crittografiche e controlla il tuo portafoglio"
 		},
 		"academy": {
 			"title": "Accademia",
-			"description": "Gli argomenti più complessi in parole semplici in un unico posto"
+			"description": "Gli argomenti più complessi, scritti in parole semplici in un unico posto."
 		},
 		"forum": {
 			"title": "Forum",
@@ -56,20 +56,20 @@
 			"description": "Vota, prendi decisioni importanti che influiscono sulla nostra comunità"
 		},
 		"launchpad": {
-			"title": "Trampolino di lancio",
+			"title": "Launchpad",
 			"description": "Piattaforma di lancio guidata dalla comunità per il lancio e la promozione di progetti"
 		},
 		"research_crypto": {
 			"title": "Ricerca sulle criptovalute",
-			"description": "Raccogliere tutte le ultime informazioni sui progetti e fare ricerca"
+			"description": "Raccogliamo tutte le informazioni più recenti sui progetti e svolgiamo ricerche"
 		}
 	},
 	"roadmap": {
-		"title": "Tabella di marcia",
-		"item1": "<ul><li>Miglioramenti alle funzionalità del portafoglio</li><li> Beta chiusa</li><li> Preparazione per il rilascio</li><li> Lancio di MVP e sito aziendale</li><li> Nuovo server Discord della comunità migliorato</li></ul>",
-		"item2": "<ul><li>Localizza tutti i servizi, entra nel mercato globale</li><li> Avvia la criptovaluta di ricerca</li><li> Avvia i pool della community</li><li> Avvia indici</li></ul>",
+		"title": "Roadmap",
+		"item1": "<ul><li>Miglioramenti alle funzionalità del portafoglio</li><li> Beta test chiusa</li><li> Preparazione per il rilascio</li><li> Lancio di MVP e sito aziendale</li><li> Nuovo migliorato server Discord per la comunità </li></ul>",
+		"item2": "<ul><li>Localizza tutti i servizi, entra nel mercato globale</li><li> Avvia la criptovaluta di ricerca</li><li> Avvia i pool della comunità </li><li> Avvia indici</li></ul>",
 		"item3": "<ul><li>Costruire una squadra</li><li> Sviluppo di un MVP:<ul><li> Portafoglio</li><li> Accademia</ li><li> Forum</li></ul></li><li> Creare un&#39;architettura</li><li> Creazione di un sistema di progettazione</li><li> Verifica di ipotesi</li></ul>",
-		"item4": "<ul><li>Crea nuovi corsi di formazione per Academy</li><li> Avvisi di implementazione</li><li> Implementa il calendario Crypto</li><li > Lancio di Stake HUB</li><li> Creazione di un portafoglio MVP</li></ul>"
+		"item4": "<ul><li>Crea nuovi corsi di formazione per Accademia </li><li> Avvisi di implementazione</li><li> Implementa il calendario Crypto</li><li > Lancio di Stake HUB</li><li> Creazione di un portafoglio MVP</li></ul>"
 	},
 	"register": {
 		"title": "Entra a far parte della comunità!",

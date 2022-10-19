@@ -1,42 +1,42 @@
 {
 	"title": "Come ottenere l'accesso?",
-	"subtitle": "Per ottenere l'accesso, è necessario acquistare 1 abbonamento su 3.\n Puoi anche provare una prova gratuita di 7 giorni.",
+	"subtitle": "Per ottenere l'accesso, è necessario acquistare 1 abbonamento su 3.\n Puoi anche avere il periodo gratuito di 7 giorni.",
 	"select_subscription": "Seleziona Abbonamento",
 	"community": {
 		"title": "Criptocomunità",
-		"subtitle": "Comunità chiusa per veri appassionati di criptovalute, che ti permetterà di essere sempre al corrente di tutto ciò che accade nel settore.",
+		"subtitle": "Comunità chiusa per i veri appassionati di criptovalute, che ti permetterà di essere sempre aggiornato di tutto ciò che accade nel settore.",
 		"item1": {
-			"title": "Addestramento",
-			"description": "Lezioni dal vivo regolari su vari argomenti, recensioni di mercato/portafoglio, conferenze e discussioni sulle criptovalute"
+			"title": "Lezioni",
+			"description": "Lezioni regolari dal vivo su vari argomenti, recensioni di mercato/portafoglio, conferenze e discussioni sulle criptovalute"
 		},
 		"item2": {
 			"title": "Analitica",
-			"description": "Riepilogo giornaliero di analisi sulla situazione del mercato, consigli per l'acquisto di asset e una serie di posizioni"
+			"description": "Analisi giornaliera della situazione di mercato, consigli per l'acquisto di asset"
 		},
 		"item3": {
 			"title": "Criptovalute",
-			"description": "Tracciare e raccogliere le ultime notizie dal mondo delle criptovalute in un unico posto, Twitter e Binance tracker"
+			"description": "Tracciamo e raccogliamo le ultime notizie dal mondo delle criptovalute in un unico posto, Twitter e Binance tracker"
 		},
 		"item4": {
 			"title": "Comunità",
-			"description": "Comunità amichevole e reattiva, comunicazione e feedback regolari, supporto e consigli tempestivi"
+			"description": "Comunità amichevole e reattiva, comunicazione e feedback regolari, supporto e consigli operativi"
 		},
 		"item5": {
 			"title": "Biblioteca",
-			"description": "Una raccolta di collegamenti alle risorse più utili nel settore delle criptovalute in varie aree: CEX, DEX, Wallet, Analytics e altro..."
+			"description": "Una raccolta di link alle risorse più utili nel settore delle criptovalute in varie aree: CEX, DEX, Wallet, Analytics e altro..."
 		},
 		"item6": {
-			"title": "Avviso di balena",
+			"title": "Whale Alert",
 			"description": "Tracciamento e pubblicazione di grandi transazioni, masterizzazioni e stampe all'interno di blockchain (in uno stile magico!)"
 		}
 	},
 	"platform": {
 		"title": "piattaforma",
 		"subtitle": "Tieni traccia delle prestazioni di tutti i tuoi investimenti in un posto comodo e comprensibile",
-		"notice": "Lavoriamo costantemente per migliorare la piattaforma e ci sforziamo per renderla il più comoda e utile possibile per tutti. Altre fantastiche funzionalità in arrivo!",
+		"notice": "Stiamo lavorando costantemente per migliorare la piattaforma e ci sforziamo di renderla più conveniente e utile per tutti. Altre fantastiche funzionalità in arrivo!",
 		"item1": {
 			"title": "Portafoglio",
-			"description": "Tieni traccia delle prestazioni dei tuoi portafogli in una comoda interfaccia. 3 tipi di portafogli: azionario, virtuale e di rischio"
+			"description": "Tieni traccia delle prestazioni dei tuoi portafogli in una comoda interfaccia. 3 tipi di portafogli: azionario, virtuale e venture"
 		},
 		"item2": {
 			"title": "Forum",
@@ -57,7 +57,7 @@
 		"how_get_hamster": "Come ottenere un criceto?"
 	},
 	"hamster_modal": {
-		"description": "Puoi creare un criceto solo con il nome dell'abbonamento \"Cryptocommunity\" o \"All in One\". Il criceto generato ti viene assegnato in modo permanente. Ogni criceto ha una rarità da Comune a Raro e proprietà di generazione uniche: Sfondo, Emote, Cosa, Copricapo",
+		"description": "Puoi creare un criceto solo con l'abbonamento \"Cryptocommunity\" o \"All in One\". Il criceto generato ti viene assegnato in modo permanente. Ogni criceto ha una rarità da Comune a Raro e proprietà di generazione uniche: Sfondo, Emote, Cosa, Copricapo",
 		"ok": "Chiaro",
 		"step1": {
 			"title": "Passo 1",
@@ -77,7 +77,7 @@
 		},
 		"step5": {
 			"title": "Passaggio 5",
-			"description": "Congratulazioni, il tuo criceto più bello è stato generato!"
+			"description": "Congratulazioni, il tuo criceto più cool è stato generato!"
 		}
 	},
 	"subscriptions": {
@@ -90,7 +90,7 @@
 		"all_types_portfolio": "Tutti i tipi di portafogli (3 in 1)",
 		"courses_academy": "Corsi dell'Accademia",
 		"forum": "Forum",
-		"private_telegram": "Telegramma privato",
+		"private_telegram": "Telegramm privato",
 		"private_discord": "Server Discord privato",
 		"use_free": "Prova gratis",
 		"select_subscription": "Seleziona Abbonamento"

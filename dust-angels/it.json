@@ -1,14 +1,14 @@
 {
 	"bro": {
-		"content": "Appassionati di criptovalute che sono particolarmente interessati allo sviluppo della comunità e dell'industria delle criptovalute in generale. I fanatici delle criptovalute che vogliono supportare il progetto e diventarne parte. Sviluppa e migliora con noi.",
+		"content": "Gli appassionati di criptovalute che sono particolarmente interessati allo sviluppo della comunità e del settore delle criptovalute in generale. Crypto fanatici che vogliono supportare il progetto e diventarne parte. Sviluppa e migliora con noi.",
 		"modal": {
 			"offer_text_label": "Come puoi aiutarci?"
 		}
 	},
 	"angels": {
-		"content": "Investitori per relazioni serie, pronti per un'interazione e una cooperazione a tutti gli effetti. Le aziende che si impegnano a ridimensionare e sviluppare il progetto, desiderose di fare hackathon comuni, conferenze congiunte, unire le comunità, far avanzare il settore, sono pronte per collaborazioni paritarie.",
+		"content": "Investitori per rapporti seri, pronti per la piena interazione e collaborazione. Le aziende che si impegnano a ridimensionare e sviluppare il progetto, desiderose di fare hackathon comuni, conferenze congiunte, unire le comunità, far avanzare il settore, sono pronte per collaborazioni paritarie.",
 		"modal": {
-			"offer_size_label": "Sono interessato a investire"
+			"offer_size_label": "Sono interessato ad investire"
 		}
 	},
 	"send": "Inviare",
@@ -18,5 +18,5 @@
 		"invalid_email": "Inserisci una email valida"
 	},
 	"success_message": "Offerta inviata con successo",
-	"error_message": "Si è verificato un errore durante l'invio dell'offerta"
+	"error_message": "Si è verificato un errore durante l'invio di un'offerta"
 }
