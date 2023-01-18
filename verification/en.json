@@ -1,8 +1,10 @@
 {
-  "title": "Identity verification",
+  "title": "Source type",
   "content": "Beware of scammers. Enter your email address, phone number, Telegram nickname to check if the source is verified and officially belongs to the Dust Foundation.",
-  "field_label": "Contact",
+  "field_label": "Source",
   "field_placeholder": "Enter link or nickname",
+  "field_type_label": "Source type",
+  "field_type_placeholder": "Выберите тип источника",
   "button": "Verify",
   "modal": {
     "title": "Source verified",
@@ -11,5 +13,8 @@
     "not_verified_source_content": "The source you entered is not an official Dust Foundation domain. Please be careful and only interact with verified official Dust Foundation sources.",
     "verified_source_content": "The source you entered is verified and is the official domain of the Dust Foundation.",
     "button": "Close"
+  },
+  "modal_type": {
+    "title": "Source type"
   }
 }

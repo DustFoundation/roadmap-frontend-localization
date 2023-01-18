@@ -1,15 +1,20 @@
 {
-	"title": "身份驗證",
-	"content": "謹防騙子。 輸入您的電子郵件地址、電話號碼、Telegram 暱稱，以檢查來源是否經過驗證以及是否正式屬於 Dust Foundation。",
-	"field_label": "接觸",
-	"field_placeholder": "輸入鏈接或暱稱",
-	"button": "核實",
-	"modal": {
-		"title": "來源已驗證",
-		"verified_source": "驗證來源!",
-		"not_verified_source": "來源未驗證!",
-		"not_verified_source_content": "您輸入的來源不是官方 Dust Foundation 域。 請小心並僅與經過驗證的官方 Dust Foundation 來源進行交互。",
-		"verified_source_content": "您輸入的來源已經過驗證，是 Dust Foundation 的官方域名。",
-		"button": "關閉"
-	}
+  "title": "來源驗證",
+  "content": "謹防騙子。 輸入您的電子郵件地址、電話號碼、Telegram 暱稱，以檢查來源是否經過驗證以及是否正式屬於 Dust Foundation。",
+  "field_label": "來源",
+  "field_placeholder": "輸入鏈接或暱稱",
+  "field_type_label": "來源類型",
+  "field_type_placeholder": "選擇來源類型",
+  "button": "核實",
+  "modal": {
+    "title": "來源已驗證",
+    "verified_source": "驗證來源!",
+    "not_verified_source": "來源未驗證!",
+    "not_verified_source_content": "您輸入的來源不是官方 Dust Foundation 域。 請小心並僅與經過驗證的官方 Dust Foundation 來源進行交互。",
+    "verified_source_content": "您輸入的來源已經過驗證，是 Dust Foundation 的官方域名。",
+    "button": "關閉"
+  },
+  "modal_type": {
+    "title": "來源類型"
+  }
 }

@@ -1,8 +1,10 @@
 {
-  "title": "Identitātes pārbaude",
+  "title": "Avota verifikācija",
   "content": "Uzmanieties no krāpniekiem. Ievadiet savu e-pasta adresi, tālruņa numuru, Telegram segvārdu, lai pārbaudītu, vai avots ir pārbaudīts un oficiāli pieder Dust Foundation.",
-  "field_label": "Sazināties",
+  "field_label": "Avots",
   "field_placeholder": "Ievadiet saiti vai segvārdu",
+  "field_type_label": "Avota veids",
+  "field_type_placeholder": "Выберите тип источника",
   "button": "Pārbaudīt",
   "modal": {
     "title": "Avots pārbaudīts",
@@ -11,5 +13,8 @@
     "not_verified_source_content": "Jūsu ievadītais avots nav oficiāls Dust Foundation domēns. Lūdzu, esiet piesardzīgs un sazinieties tikai ar pārbaudītiem oficiālajiem putekļu fonda avotiem.",
     "verified_source_content": "Jūsu ievadītais avots ir pārbaudīts un ir Dust Foundation oficiālais domēns.",
     "button": "Aizveriet"
+  },
+  "modal_type": {
+    "title": "Avota veids"
   }
 }
