@@ -5,6 +5,7 @@
   "field_placeholder": "Введіть посилання або нік",
   "button": "Перевірити",
   "modal": {
+    "title": "Джерело перевірено",
     "verified_source": "Перевірене джерело!",
     "not_verified_source": "Джерело не підтверджено!",
     "not_verified_source_content": "Введене джерело не є офіційним доменом Dust Foundation. Будь ласка, будьте обережні та взаємодійте тільки з перевіреними офіційними джерелами Dust Foundation.",

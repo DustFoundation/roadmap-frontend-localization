@@ -5,6 +5,7 @@
   "field_placeholder": "Ievadiet saiti vai segvārdu",
   "button": "Pārbaudīt",
   "modal": {
+    "title": "Avots pārbaudīts",
     "verified_source": "Pārbaudīts avots!",
     "not_verified_source": "Avots nav pārbaudīts!",
     "not_verified_source_content": "Jūsu ievadītais avots nav oficiāls Dust Foundation domēns. Lūdzu, esiet piesardzīgs un sazinieties tikai ar pārbaudītiem oficiālajiem putekļu fonda avotiem.",

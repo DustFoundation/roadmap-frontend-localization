@@ -5,6 +5,7 @@
 	"field_placeholder": "Inserisci il link o il nickname",
 	"button": "Verificare",
 	"modal": {
+		"title": "Fonte verificata",
 		"verified_source": "Fonte verificata!",
 		"not_verified_source": "Fonte non verificata!",
 		"not_verified_source_content": "La fonte che hai inserito non è un dominio ufficiale di Dust Foundation. Fai attenzione e interagisci solo con fonti ufficiali verificate della Dust Foundation.",
