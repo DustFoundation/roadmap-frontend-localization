@@ -23,10 +23,11 @@
 	"stay_up_latest_news": "随时了解最新消息",
 	"sign_in": "登录",
 	"sign_up": "注册",
-  "ru": "Русский",
-  "en": "English",
-  "uk": "Українська",
-  "lv": "Latviešu",
-  "it": "Italiano",
-  "zh": "中文"
+	"ru": "Русский",
+	"en": "English",
+	"uk": "Українська",
+	"lv": "Latviešu",
+	"it": "Italiano",
+	"zh": "中文",
+	"verification": "确认"
 }
