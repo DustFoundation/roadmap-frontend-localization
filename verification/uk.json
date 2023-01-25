@@ -10,7 +10,7 @@
     "title": "Джерело перевірено",
     "verified_source": "Перевірене джерело!",
     "not_verified_source": "Джерело не підтверджено!",
-    "not_verified_source_content": "Введене джерело не є офіційним доменом Dust Foundation. Будь ласка, будьте обережні та взаємодійте тільки з перевіреними офіційними джерелами Dust Foundation.",
+    "not_verified_source_content": "<span>Введене джерело не є офіційним доменом Dust Foundation.</span> Будь ласка, будьте обережні та взаємодійте тільки з перевіреними офіційними джерелами Dust Foundation.",
     "verified_source_content": "Введене вами джерело перевірено та є офіційним доменом Dust Foundation.",
     "button": "Закрити"
   },

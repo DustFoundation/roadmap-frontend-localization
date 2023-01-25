@@ -10,7 +10,7 @@
     "title": "Fonte verificata",
     "verified_source": "Fonte verificata!",
     "not_verified_source": "Fonte non verificata!",
-    "not_verified_source_content": "La fonte che hai inserito non è un dominio ufficiale di Dust Foundation. Fai attenzione e interagisci solo con fonti ufficiali verificate della Dust Foundation.",
+    "not_verified_source_content": "<span>La fonte che hai inserito non è un dominio ufficiale di Dust Foundation.</span> Fai attenzione e interagisci solo con fonti ufficiali verificate della Dust Foundation.",
     "verified_source_content": "La fonte che hai inserito è verificata ed è il dominio ufficiale della Dust Foundation.",
     "button": "Сhiudere"
   },

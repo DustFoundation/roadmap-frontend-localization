@@ -10,7 +10,7 @@
     "title": "來源已驗證",
     "verified_source": "驗證來源!",
     "not_verified_source": "來源未驗證!",
-    "not_verified_source_content": "您輸入的來源不是官方 Dust Foundation 域。 請小心並僅與經過驗證的官方 Dust Foundation 來源進行交互。",
+    "not_verified_source_content": "<span>您輸入的來源不是官方 Dust Foundation 域。</span> 請小心並僅與經過驗證的官方 Dust Foundation 來源進行交互。",
     "verified_source_content": "您輸入的來源已經過驗證，是 Dust Foundation 的官方域名。",
     "button": "關閉"
   },
